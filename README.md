@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Salman.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on a learning platform.
 
 <!---
